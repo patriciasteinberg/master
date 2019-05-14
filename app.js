@@ -54,7 +54,6 @@ yargs.command({
 });
 
 //Create list command:
-//remove-me
 yargs.command({
   command: "list",
   describe: "List the notes",
